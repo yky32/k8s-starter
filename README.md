@@ -7,7 +7,7 @@ K8s for Microservices
 https://kubernetes.github.io/ingress-nginx/deploy/#quick-start
 
 Idea and Concept:
-![ingress-to-service.png](ingress-to-service.png)
+![ingress-to-service.png](img/ingress-to-service.png)
 
 ```yaml
 Release "ingress-nginx" does not exist. Installing it now.
