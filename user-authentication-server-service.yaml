@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: user-authentication-server
+  name: user-authentication-server-svc
 spec:
   type: LoadBalancer
   ports:
